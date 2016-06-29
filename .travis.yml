@@ -8,9 +8,9 @@ sudo: required
 deploy:
    edge: true
    provider: cloudfoundry
-   username: julien.landure@gmail.com
+   username: bernard.rouquette@gmail.com
    password:                                                                                                                                                                                                                                          
-    secure: JtiwzBt3eFL5rT3tGtpRYWEKlkS8QRCUSBebITxtOQDjMI1oPOaqZu6N5Dfl6bvuRJnv2eShTFmnvIdBpvsZEpf4y6BzRiskhNjQZKSOFUnudgztgMiOjbP1yaDSJYdXLtAnPG9OYzO0NCCjllf09ruTarRlSnhEkSk+Umrmvi8= 
+    secure: Ct8UIJrJZFTYTBXJzX43DX4DB9T/+QL6aXCMeGQE4jqMNSD9jWBI5cz0yBR0RXUfU9pt4xKzmybKRMDjw8fzSXQ0YHT5tmqt1vGdpiIO8TnaMMtcrqL80a8x3OuRjl09azJ4va668ioDiazQw7v0hyOu5JJwSmF02C6Bu98IZWys+5Wnwwq3J/rsXykbAjjbGUYDuafES+lefhyr1GkxYOA05TIQUrk79Qt+xu09IkTxGSaPy9RUKKYWA8SwyjbdQa0uScvEMCPWEwkv6QEo0tdm64fplfWWedLxIxO2KdLfYU9RVwICbhHTMxL5yRvQgtDXcppMaGb4AipYmNSNGGHCuVoJ0YcXldwmV66ZCvP0RKGkAVwH82MngKqszxoh1Yxm0MaPrhENvzYal0xAbRD7RuTFJVe3eD7C6G2W6TWp1zlblTgE1y+534/09GK+a7zRgh2OHCNRcY3Ye4MpbnsiF0Hflp04bXQzZRHvV+jUb82PNBiJEwdSzvuzFjZ4FbnnuPB++O6FCCBgOCv8oVHzpdy6FD6yY5eO0gY+E8lwrbtG5uP0MdDd1rpb28ztiLGE6mKlYHArw87Fym0IkX+/layv/xoqE1Z3AsXMClfxH0Ciuk2JjCEeaKWcKKSIQQxIU1Y1AjxoXVk0nCf2mZb5dKmkMh50Ynv2rsPuqiA=
    api: https://api.run.pivotal.io
-   organization: zenika
+   organization: berni-org
    space: development
